@@ -1,158 +1,102 @@
 <div align="center">
 
-# Hola, soy Marcos González
+# Hola, soy Marcos González 👋
 
-### Desarrollador Full Stack · Frontend Lover
+### Desarrollador Web · WordPress & Frontend
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Construyendo+experiencias+web+modernas;Frontend+%C2%B7+Backend+%C2%B7+UI%2FUX;Transformando+ideas+en+productos+digitales" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Desarrollo+web+y+soluciones+a+medida;WordPress+%C2%B7+JavaScript+%C2%B7+React;Transformando+necesidades+en+soluciones+digitales" alt="Presentación animada" />
 
-<br>
+Desarrollo sitios y aplicaciones web **modernos, funcionales y optimizados**, combinando experiencia de usuario, tecnología y soluciones a necesidades reales.
 
-Desarrollo experiencias web **modernas, rápidas y escalables**, combinando diseño, código y tecnología.
-
-<br><br>
-
-<a href="https://marcosgzz.tech/">
-  <img src="https://img.shields.io/badge/Portafolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/marcosgzz/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:contacto@marcosgzz.tech">
-  <img src="https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://marcosgzz.tech/"><img src="https://img.shields.io/badge/Portafolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
+<a href="https://www.linkedin.com/in/marcosgzz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:contacto@marcosgzz.tech"><img src="https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto" /></a>
 
 </div>
-
-<br>
 
 ---
 
 ## Sobre mí
 
-Soy **Desarrollador Web Full Stack** con más de **5 años de experiencia** creando, personalizando y manteniendo sitios web y aplicaciones.
+Soy **Desarrollador Web** con experiencia profesional desde 2022 en agencias digitales, especializado en **WordPress y desarrollo frontend**.
 
-Me gusta crear productos digitales donde **diseño y desarrollo trabajen juntos**. Interfaces atractivas, experiencias intuitivas y código pensado para construir productos rápidos, escalables y fáciles de mantener.
+He desarrollado sitios corporativos, landing pages y funcionalidades personalizadas, además de colaborar en aplicaciones web. Me interesa que cada solución sea fácil de usar, administrar y mantener.
 
-Mi experiencia abarca **frontend, backend e infraestructura web**, trabajando con aplicaciones modernas, CMS, bases de datos, servidores, dominios y despliegues.
-
-Actualmente continúo explorando nuevas tecnologías y fortaleciendo mis conocimientos en **arquitecturas modernas, Cloud Computing y desarrollo Full Stack**.
+Trabajo principalmente con **WordPress, HTML, CSS, JavaScript y PHP**. También he participado en proyectos con **React, Tailwind CSS y Firebase** y utilizo herramientas de desarrollo asistido por IA como **OpenAI Codex** para implementar, revisar y depurar código.
 
 ```javascript
 const marcos = {
-  ubicacion: "México",
-  rol: "Desarrollador Full Stack",
-
-  experiencia: "+5 años",
-
-  meGusta: [
-    "Crear interfaces",
-    "Resolver problemas",
-    "Aprender nuevas tecnologías",
-    "Optimizar hasta el último milisegundo"
-  ],
-
-  enfoque: [
-    "Frontend",
-    "Backend",
-    "UI/UX",
-    "Rendimiento Web"
-  ],
-
-  actualmenteAprendiendo: [
-    "Cloud Computing",
-    "Google Cloud",
-    "Arquitecturas escalables"
-  ],
-
-  cafe: true,
-  disponibleParaNuevosRetos: true
+  rol: "Desarrollador Web",
+  especialidad: ["WordPress", "Frontend"],
+  experiencia: "Desde 2022",
+  intereses: ["Interfaces web", "Rendimiento", "Automatización", "IA"],
+  herramientasIA: ["OpenAI Codex", "ChatGPT"],
+  disponibleParaProyectos: true
 };
 ```
 
 ---
 
-## Mi stack
+## Tecnologías y herramientas
 
 <div align="center">
 
-#### Frontend
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,astro,tailwind&theme=light" alt="Tecnologías frontend" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=light" />
+### WordPress, backend y datos
+<img src="https://skillicons.dev/icons?i=wordpress,php,nodejs,python,django,mysql,firebase,supabase&theme=light" alt="CMS, backend y datos" />
 
-<br><br>
+### Herramientas y despliegue
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,gcp&theme=light" alt="Herramientas de desarrollo" />
 
-#### Backend & Bases de datos
-
-<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,firebase&theme=light" />
-
-<br><br>
-
-#### CMS
-
-<img src="https://skillicons.dev/icons?i=wordpress&theme=light" />
-
-<br><br>
-
-#### Herramientas & Cloud
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,vercel,gcp,figma&theme=light" />
+### Desarrollo asistido por IA
+<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 
 </div>
 
-<br>
-
 ---
 
-## Lo que hago
+## ¿En qué trabajo?
 
 <table>
 <tr>
-
-<td width="50%" valign="top">
-
-### Frontend
-
-Diseño y desarrollo interfaces **modernas, responsivas e intuitivas**, cuidando cada detalle de la experiencia de usuario.
-
-`React` `Next.js` `TypeScript` `Tailwind CSS`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Backend
-
-Construyo la lógica que hace funcionar las aplicaciones, desde integraciones hasta APIs y bases de datos.
-
-`Node.js` `PHP` `Firebase` `MySQL`
-
-</td>
-
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 ### WordPress
+Desarrollo y personalización de sitios, contenido dinámico, integraciones y mantenimiento.
 
-Desarrollo soluciones personalizadas con WordPress, desde sitios corporativos hasta implementaciones avanzadas.
-
-`WordPress` `PHP` `JavaScript` `MySQL`
+`WordPress` `Elementor Pro` `PHP` `JavaScript`
 
 </td>
-
 <td width="50%" valign="top">
 
-### Rendimiento
+### Frontend
+Interfaces responsivas a partir de diseños, con enfoque en usabilidad y rendimiento.
 
-Me gusta que la web no solo se vea bien, sino que también **vuele**.
-
-`Core Web Vitals` `SEO` `Accesibilidad` `UX`
+`HTML` `CSS` `JavaScript` `React`
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### Aplicaciones web
+Colaboración en herramientas digitales, módulos administrativos e integraciones.
+
+`React` `Firebase` `APIs REST`
+
+</td>
+<td width="50%" valign="top">
+
+### Optimización
+Diagnóstico de incidencias, velocidad, seguridad y configuración web.
+
+`SEO técnico` `Core Web Vitals` `Hosting` `SSL`
+
+</td>
 </tr>
 </table>
 
@@ -161,100 +105,64 @@ Me gusta que la web no solo se vea bien, sino que también **vuele**.
 ## Proyectos destacados
 
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### marcosgzz.tech
+### 🌐 Portafolio personal
+Mi espacio para compartir proyectos y experiencia profesional.
 
-Mi portafolio personal y pequeño laboratorio donde experimento con nuevas tecnologías y muestro algunos de mis proyectos.
+**Next.js · React · JavaScript**
 
-**Next.js · React · TypeScript · Tailwind CSS**
-
-<br>
-
-<a href="https://marcosgzz.tech/">
-  <img src="https://img.shields.io/badge/Visitar_proyecto-8B5CF6?style=flat-square&logo=vercel&logoColor=white" />
-</a>
+<a href="https://marcosgzz.tech/"><img src="https://img.shields.io/badge/Visitar_portafolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Visitar portafolio" /></a>
 
 </td>
-
 <td width="50%" valign="top">
 
-### Proyectos Web
+### 💻 Soluciones para negocios
+Sitios y herramientas para mejorar procesos y administrar contenido.
 
-Una selección de sitios y soluciones digitales que he desarrollado, enfocados en diseño, rendimiento y experiencia de usuario.
+**WordPress · Astro · React · Firebase**
 
-**WordPress · PHP · JavaScript · MySQL**
-
-<br>
-
-<a href="https://marcosgzz.tech/">
-  <img src="https://img.shields.io/badge/Explorar_proyectos-06B6D4?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
+<a href="https://marcosgzz.tech/"><img src="https://img.shields.io/badge/Explorar_proyectos-06B6D4?style=flat-square&logo=googlechrome&logoColor=white" alt="Explorar proyectos" /></a>
 
 </td>
-
 </tr>
-
 </table>
 
 ---
 
-## Actualmente explorando
+## Actualmente aprendiendo
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud_Computing-06B6D4?style=for-the-badge&logo=icloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
 </div>
 
-<br>
-
-Mi objetivo es seguir profundizando en **arquitecturas modernas, desarrollo Full Stack, servicios Cloud y aplicaciones web escalables**, sin dejar de lado lo que más disfruto: crear buenas experiencias en la web.
+Me interesa seguir creciendo en **frontend, servicios Cloud y aplicaciones web**, sin dejar de lado mi especialidad en WordPress.
 
 ---
 
-## GitHub
+## Actividad en GitHub
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmagno99&theme=github" width="95%" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmagno99&theme=github" width="95%" alt="Actividad de GitHub" />
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-## ¿Tienes una idea?
+## ¿Trabajamos juntos?
 
-Me gusta convertir ideas en productos digitales que **se vean bien y funcionen todavía mejor**.
+Me gusta transformar necesidades en soluciones web que **se vean bien, funcionen correctamente y aporten valor**.
 
-Si tienes un proyecto en mente, quieres colaborar o simplemente hablar de desarrollo web, puedes encontrarme aquí.
+<a href="https://marcosgzz.tech/"><img src="https://img.shields.io/badge/Portafolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
+<a href="https://www.linkedin.com/in/marcosgzz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:contacto@marcosgzz.tech"><img src="https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto" /></a>
 
-<br>
-
-<a href="https://marcosgzz.tech/">
-  <img src="https://img.shields.io/badge/marcosgzz.tech-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/marcosgzz/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:contacto@marcosgzz.tech">
-  <img src="https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<sub>Hecho con código, café y probablemente demasiadas pestañas abiertas.</sub>
+<sub>Hecho con código, café y probablemente demasiadas pestañas abiertas. ☕</sub>
 
 </div>
